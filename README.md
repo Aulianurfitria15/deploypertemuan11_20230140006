@@ -13,7 +13,7 @@ DOCKER COMPOSE:
 
 
 NANO DOCKER:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/12e5c091-9299-4271-970b-67cd72c05a07" />
+<img width="1919" height="1114" alt="image" src="https://github.com/user-attachments/assets/c51cb8ff-6d93-446c-bc5c-6f0647ef2085" />
 
 
 TABEL:
