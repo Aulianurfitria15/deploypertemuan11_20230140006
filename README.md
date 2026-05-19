@@ -17,4 +17,4 @@ NANO DOCKER:
 
 
 TABEL:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e52a4aef-a444-4988-9306-e909d81d8b15" />
+<img width="1916" height="1115" alt="image" src="https://github.com/user-attachments/assets/6adcbf33-3ccf-4201-a132-a2100a355b4d" />
